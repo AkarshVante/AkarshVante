@@ -25,7 +25,7 @@
 ## My Languages and Tools:
 
 <p align="center">
-  <img src="https://github.com/sagarmude7/sagarmude7/blob/main/icons/c.png" alt="C" title="C" height="45"/>
+  <img src="icons/c.png" alt="C" title="C" height="45"/>
   <img src="https://github.com/sagarmude7/sagarmude7/blob/main/icons/c%2B%2B.png" alt="cplusplus" title="C++" height="40"/>
   <img src="https://github.com/sagarmude7/sagarmude7/blob/main/icons/python.png" alt="python" title="Python" height="40"/>
   <img src="https://github.com/sagarmude7/sagarmude7/blob/main/icons/java.png" alt="java" title="Java" height="40"/>
