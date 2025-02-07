@@ -13,7 +13,7 @@
 
 - ⚡Fun Fact - **I'm also a good Chess Player, [Challenge Me](https://www.chess.com/member/akarshvante)**
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=your-github-sagarmude7&color=brightgreen&style=plastic" alt="sagarmude7" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=your-github-AkarshVante&color=brightgreen&style=plastic" alt="AkarshVante" /> </p>
 
 
 ## ✨ Skills
@@ -26,20 +26,20 @@
 
 <p align="center">
   <img src="icons/c.png" alt="C" title="C" height="45"/>
-  <img src="https://github.com/sagarmude7/sagarmude7/blob/main/icons/c%2B%2B.png" alt="cplusplus" title="C++" height="40"/>
-  <img src="https://github.com/sagarmude7/sagarmude7/blob/main/icons/python.png" alt="python" title="Python" height="40"/>
-  <img src="https://github.com/sagarmude7/sagarmude7/blob/main/icons/java.png" alt="java" title="Java" height="40"/>
-  <img src="https://github.com/sagarmude7/sagarmude7/blob/main/icons/html.png" alt="html5" title="HTML5" height="40"/>
-  <img src="https://github.com/sagarmude7/sagarmude7/blob/main/icons/css.png" alt="css3" title="CSS3" height="40"/>
-  <img src="https://github.com/sagarmude7/sagarmude7/blob/main/icons/javascript.png" alt="javascript" title="Javascript" height="40"/>
-  <img src="https://github.com/sagarmude7/sagarmude7/blob/main/icons/react.png" alt="react" title="React" height="40"/>
-  <img src="https://github.com/sagarmude7/sagarmude7/blob/main/icons/redux.png" alt="redux" title="Redux" height="40"/>
-  <img src="https://github.com/sagarmude7/sagarmude7/blob/main/icons/nodejs.png" alt="nodejs" title="NodeJS" height="40"/>
-  <img src="https://github.com/sagarmude7/sagarmude7/blob/main/icons/bootstrap.png" alt="bootstrap" title="Bootstrap 4" height="40"/>
-  <img src="https://github.com/sagarmude7/sagarmude7/blob/main/icons/materialui.png" alt="materialui" title="MaterialUI" height="40"/>
-  <img src="https://github.com/sagarmude7/sagarmude7/blob/main/icons/sql.png" alt="sqlite" title="SQLite3" height="40"/>
-  <img src="https://github.com/sagarmude7/sagarmude7/blob/main/icons/mongodb.png" alt="mongodb" title="MongoDB" height="40"/>
-  <img src="https://github.com/sagarmude7/sagarmude7/blob/main/icons/jupyter.png" alt="jupyter" title="Jupyter" height="40"/>
+<!--   <img src="icons/c%2B%2B.png" alt="cplusplus" title="C++" height="40"/> -->
+  <img src="icons/python.png" alt="python" title="Python" height="40"/>
+  <img src="icons/java.png" alt="java" title="Java" height="40"/>
+  <img src="icons/html.png" alt="html5" title="HTML5" height="40"/>
+  <img src="icons/css.png" alt="css3" title="CSS3" height="40"/>
+  <img src="icons/javascript.png" alt="javascript" title="Javascript" height="40"/>
+<!--   <img src="icons/react.png" alt="react" title="React" height="40"/>
+  <img src="icons/redux.png" alt="redux" title="Redux" height="40"/>
+  <img src="icons/nodejs.png" alt="nodejs" title="NodeJS" height="40"/> -->
+  <img src="icons/bootstrap.png" alt="bootstrap" title="Bootstrap 4" height="40"/>
+<!--   <img src="icons/materialui.png" alt="materialui" title="MaterialUI" height="40"/> -->
+  <img src="icons/sql.png" alt="sqlite" title="SQLite3" height="40"/>
+  <img src="icons/mongodb.png" alt="mongodb" title="MongoDB" height="40"/>
+  <img src="icons/jupyter.png" alt="jupyter" title="Jupyter" height="40"/>
   </p>
 
 ## 💻 My Best Projects
