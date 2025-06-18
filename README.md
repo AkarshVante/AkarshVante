@@ -1,9 +1,9 @@
 <h1 align="center">Hi there, I'm Akarsh </h1>
-<h3 align="center">I'm a passionate about AI | ML and a 3rd year B.Tech student of Sharad Institute of Technology and College of Engineering, Yadrav</h2>
+<h3 align="center">I'm a passionate about AI | ML and a  Final Year B.Tech student of Sharad Institute of Technology and College of Engineering, Yadrav</h2>
 
 - 🌱 I’m currently learning **Machine Learning**
   
-- 💬 Ask me about - **Python, Java, Data Science, GenAI, ML**
+- 💬 Ask me about - **Python, Java, Data Science, ML, GenAI **
   
 - 👨‍💻 Want to know more? Check out my [portfolio](https://akarshvante.netlify.app/)
   
