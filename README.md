@@ -44,9 +44,9 @@
 
 ## 💻 My Best Projects
 
-- [GeminiVision](https://github.com/AkarshVante/geminivision)
-- [AI prj1](https://github.com/AkarshVante/)
-- [prj2](https://github.com/AkarshVante/)
+- [GeminiVision](https://geminivisionai.streamlit.app/)
+- [RAGChat – Multi-Document Q&A Bot ](https://pdf-chat-app-system.streamlit.app/)
+- [Sales BI Dashboard — Executive Sales Analytics](https://bi-report.streamlit.app/)
 - [more projects...](https://github.com/AkarshVante?tab=repositories)
 
 ## 📞 Contact Me
