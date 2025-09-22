@@ -18,7 +18,7 @@
 
 ## ✨ Skills
 
-- Python, Java, JavaScript
+- Python, Java, SQL
 - Data Science
 - Machine Learning
 
